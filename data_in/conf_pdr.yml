@@ -1,0 +1,8 @@
+start_date: '2010-10-01'
+end_date: '2020-10-01'
+ohlc: ['Adj Close']
+urls: [ 'https://en.wikipedia.org/wiki/NASDAQ-100', 'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies']
+index: 0
+new_db_tickers: True
+new_db_raw_prices: True
+top_vals: 100
